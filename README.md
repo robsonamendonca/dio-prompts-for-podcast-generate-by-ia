@@ -1,8 +1,10 @@
 <p align="center">
+    <a href="https://castbox.fm/app/castbox/player/id5650324/id644570187?v=8.22.11&autoplay=0" alt="PodCast">
 <img 
     src="./assets/cover.png"
     width="300"
 />
+        </a>
 </p>
 
 <p align="center">
@@ -22,8 +24,6 @@
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
-
-<iframe src="https://castbox.fm/app/castbox/player/id5650324/id644570187?v=8.22.11&autoplay=1" frameborder="0" width="100%" height="500"></iframe>
 
 # Projeto Podcast Gerado por I.A.s
 
